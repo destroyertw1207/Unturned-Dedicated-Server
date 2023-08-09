@@ -1,5 +1,7 @@
 Made by. DestroyerI滅世I (Destroyertw1207)
 
+Just share. No English Version.
+
 - 讓你更容易／方便的去創建 Unturned 伺服器。
 
 使用方式：
